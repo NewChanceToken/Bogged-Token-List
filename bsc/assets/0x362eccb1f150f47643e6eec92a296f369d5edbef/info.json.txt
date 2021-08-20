@@ -1,0 +1,15 @@
+{
+    "name": "New Chance",
+    "website": "https://www.newchancecoin.com",
+    "telegram": "https://t.me/newchancecoin",
+    "discord": "hhttps://discord.io/NewChance",
+    "twitter": "https://twitter.com/NewchanceN",
+    "description": "NCE presents a whole new form of charity that can be traced to everyone. Anyone can convince them that support is in the right place through public wallets and documented events on the website.",
+    "explorer": "https://bscscan.com/token/0x362eccb1f150f47643e6eec92a296f369d5edbef",
+    "type": "BEP20",
+    "symbol": "NCE",
+    "decimals": 9,
+    "slippage": 15,
+    "status": "active",
+    "id": "0x362eccb1f150f47643e6eec92a296f369d5edbef"
+}
